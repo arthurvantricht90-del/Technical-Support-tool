@@ -10,10 +10,12 @@ To run the tool:
 - Make sure the working directory is that directory which contains all three files mentioned above.
 
 
+
 Goal of the tool:
 - This tool was created to increase efficiency in ticket managament for my Technical Support Officer job.
 - It takes input (like phone number, port date, ICCID, etc.), and assembles the values into a neat, standardized format ready to used as a ticket observation.
 - In doing so, repetitive actions are reduced and efficiency is increased while maintaining cleanliness.
+
 
 
 Manual for tool usage:
@@ -29,7 +31,7 @@ Manual for tool usage:
 
 - Select 'Generate Observation' to generate the observation. It's automatically copied to clipboard.
 - 'Clear Fields' clears all fields.
-- 
+  
 
 - FAILED CALL OBSERVATION
 - Failed call observation generator for Homer call traces
